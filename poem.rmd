@@ -24,3 +24,8 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+Beneath the moon's soft, silver gleam,
+Dreams dance in night's enchanting stream.
+Whispers of stars, a timeless theme,
+In slumber's embrace, we gleam.
+
